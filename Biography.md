@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichardGarcia2
 - 👀 I’m interested in learning and working with programming;
-- 🌱 I’m currently ADS;
+- 🌱 I am currently a student of systems analysis and development;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my insta @richard_g5;
 - ⚡ Fun fact: Cristão.
