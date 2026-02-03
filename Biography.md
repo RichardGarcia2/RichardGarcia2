@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichardGarcia2
 - 👀 I’m interested in learning and working with programming;
-- 🌱 I’m currently learning HTML and CSS;
+- 🌱 I’m currently ADS;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my insta @richard_g5;
 - ⚡ Fun fact: Cristão.
